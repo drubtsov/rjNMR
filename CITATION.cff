@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "rjNMR: Bayesian RJ-MCMC deconvolution of NMR free induction decays"
+authors:
+  - family-names: Rubtsov
+    given-names: Denis V.
+license: BSD-3-Clause
+repository-code: "https://github.com/drubtsov/rjNMR"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Rubtsov
+      given-names: Denis V.
+    - family-names: Griffin
+      given-names: Julian L.
+  title: "Time-domain Bayesian detection and estimation of noisy damped sinusoidal signals applied to NMR spectroscopy"
+  journal: "Journal of Magnetic Resonance"
+  volume: 188
+  issue: 2
+  start: 367
+  end: 379
+  year: 2007
+  doi: "10.1016/j.jmr.2007.08.008"
+references:
+  - type: article
+    authors:
+      - family-names: Rubtsov
+        given-names: Denis V.
+      - family-names: Waterman
+        given-names: Claire
+      - family-names: Currie
+        given-names: Richard A.
+      - family-names: Waterfield
+        given-names: Catherine
+      - family-names: Salazar
+        given-names: Jos Domingo
+      - family-names: Wright
+        given-names: Jayne
+      - family-names: Griffin
+        given-names: Julian L.
+    title: "Application of a Bayesian Deconvolution Approach for High-Resolution 1H NMR Spectra to Assessing the Metabolic Effects of Acute Phenobarbital Exposure in Liver Tissue"
+    journal: "Analytical Chemistry"
+    volume: 82
+    issue: 11
+    start: 4479
+    end: 4485
+    year: 2010
